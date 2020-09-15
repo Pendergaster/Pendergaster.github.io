@@ -2,8 +2,8 @@
 
 Projects hosted here do not represent anyone other than myself and most of them are for fun anyways. 
 
-Hi! I am a young and enthusiastic programmer from Finland. Currently, I am at the end, of my bachelor of engineering studies. 
-I enjoy programming in C and C++. All my projects, here in GitHub, have been done in school or free time. 
+Hi! I am a young and enthusiastic programmer from Finland. Currently, I am at the end of my bachelor of engineering studies. 
+I enjoy programming in C and C++. All my projects here in GitHub, have been done in school or free time. 
 Most of my GitHub projects are in C because I find it to be a great and simple tool to work with and it forces me to implement my own data structures and algorithms.
 I find it to be a great way to learn.
 
