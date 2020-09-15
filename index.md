@@ -41,7 +41,7 @@ This project was part of my graphics programming studies. Provides basic Vulkan 
 
 - [Oculus VR engine with OpenGL rendering](https://github.com/Pendergaster/VRstuff)
 
-The project's goal was to implement VR rendering from scratch. I decided to use the Ovr library by Oculus. Project integrated 3D Bullet physics and animation pipeline.
+The project's goal was to implement VR rendering from scratch. I decided to use the Ovr library by Oculus. Project integrated 3D Bullet physics and custom animation pipeline.
 
 ![image4](https://github.com/Pendergaster/VRstuff/raw/master/demo.gif)
 
