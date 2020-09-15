@@ -2,13 +2,13 @@
 
 Projects hosted here do not represent anyone other than myself and most of them are for fun anyways. 
 
-Hi! I am a young and enthusiastic programmer from Finland. Currently, I am at the end, of my bachelor of engineering studies. 
-I enjoy programming in C and C++. All my projects, here in GitHub, have been done in school or free time. 
+Hi! I am a young and enthusiastic programmer from Finland. Currently, I am at the end of my bachelor of engineering studies. 
+I enjoy programming in C and C++. All my projects here in GitHub, have been done in school or free time. 
 Most of my GitHub projects are in C because I find it to be a great and simple tool to work with and it forces me to implement my own data structures and algorithms.
 I find it to be a great way to learn.
 
 Professionally I have used both C and C++. I also have experience in some scripting languages, like Bash, Python, and Lua.
-The best skill that I can provide is enthusiasm for programming and learning!
+The best skill that I can provide is **enthusiasm for programming and learning!**
 
 # Some of the projects
 
@@ -50,3 +50,13 @@ The project's goal was to implement VR rendering from scratch. I decided to use 
 CHIP-8 project was my first introduction to emulation theory. It includes simple OpenGL rendering.
 
 ![Image5](https://github.com/Pendergaster/chip8-emu/raw/master/chipinvaders.png)
+
+- [2D physics engine](https://github.com/Pendergaster/2dPhysics)
+
+This 2D Physics engine was done as part of school course. It uses pool allocator for bodies and SAT(Seperating axis theorem) for collision check.
+Rendering is done with OpenGL. This is very minimal implementation of physics engine, but it was great project to learn from.
+
+![Image6](https://github.com/Pendergaster/2dPhysics/raw/master/laatikkoVid.gif)
+
+
+There is also some miscellaneous projects which can be found in my GitHub repository: [https://github.com/Pendergaster](https://github.com/Pendergaster)
